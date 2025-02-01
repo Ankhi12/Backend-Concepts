@@ -7,7 +7,7 @@ For example, I did a small project involving authentication using MVC in Node.js
 
 ![image](https://github.com/user-attachments/assets/78da153a-66d7-4635-84a0-8303e02a4f89)
 
-Here's what the folder structure and connection looks like for this authentication project. For views, i.e., U.I, I have used POSTMAN
+Here's what the folder structure and connection looks like for this authentication project. For views, i.e., U.I, I have not built it, but used POSTMAN for API request (TO mimic ui)
 
 ![image](https://github.com/user-attachments/assets/22be9615-b79d-4fe9-8820-72522899ce7d)
 
