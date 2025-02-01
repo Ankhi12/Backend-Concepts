@@ -5,6 +5,8 @@ So, I start by drawing an entity relationship chart on paper. It provides a lot 
 
 For example, I did a small project involving authentication using MVC in Node.js. Here’s how I interpreted the MVC structure—though it may look different from what you typically find online. This is my personal approach to completing a project.
 
+# MVC Pattern
+
 ![image](https://github.com/user-attachments/assets/78da153a-66d7-4635-84a0-8303e02a4f89)
 
 Here's what the folder structure and connection looks like for this authentication project. For views, i.e., U.I, I have not built it, but used POSTMAN for API request (TO mimic ui)
